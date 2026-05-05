@@ -2,12 +2,12 @@
 
 Repositorio documental del módulo **Despliegue de Aplicaciones Web**.  
 Ciclo Formativo de Grado Superior — Desarrollo de Aplicaciones Web  
-Curso 2024-2025
+Curso 2025-2026
 
 ## Integrantes del grupo
 
-- Nombre Apellido1 (GitHub: @usuario1)
-- Nombre Apellido2 (GitHub: @usuario2)
+- José Antonio Gámez (GitHub: @JoseAntonioGamez)
+- Marcos García (GitHub: @MarcosGarciaR)
 
 ## Índice de unidades
 
