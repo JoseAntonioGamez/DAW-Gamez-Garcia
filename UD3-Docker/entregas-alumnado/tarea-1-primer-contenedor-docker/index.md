@@ -1,0 +1,1 @@
+![Imagen de Docker en Apache2](../../assets/primer-contenedor-docker-con-apache2.png)
