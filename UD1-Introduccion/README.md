@@ -35,9 +35,9 @@ nav_order: 2
 
 > Tareas realizadas y entregadas en Google Classroom. Cada subcarpeta corresponde a una tarea.
 
-| Carpeta | Archivo | Tarea |
-|---------|---------|-------|
-| [mi-primer-servidor-ssh] |[Inicio de laboratorio AWS](entregas-alumnado/mi-primer-servidor-ssh/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH |
+| Carpeta | Archivo | Tarea | Descripción |
+|---------|---------|-------|-------------|
+| mi-primer-servidor-ssh |[Inicio de laboratorio AWS](entregas-alumnado/mi-primer-servidor-ssh/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH | Guía técnica detallada sobre la creación, configuración y acceso por SSH a una instancia EC2 de Ubuntu utilizando el entorno de AWS Academy Learner Lab. |
 
 ---
 
