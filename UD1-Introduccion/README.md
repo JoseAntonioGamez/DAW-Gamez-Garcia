@@ -35,9 +35,9 @@ nav_order: 2
 
 > Tareas realizadas y entregadas en Google Classroom. Cada subcarpeta corresponde a una tarea.
 
-| Carpeta | Archivo | Tarea |
-|---------|---------|-------|
-| [mi-primer-servidor-ssh] |[Inicio de laboratorio AWS](entregas-alumnado/mi-primer-servidor-ssh/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH |
+| Carpeta | Archivo | Tarea | Descripción |
+|---------|---------|-------|-------------|
+| mi-primer-servidor-ssh |[Inicio de laboratorio AWS](entregas-alumnado/mi-primer-servidor-ssh/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH | Guía técnica detallada sobre la creación, configuración y acceso por SSH a una instancia EC2 de Ubuntu utilizando el entorno de AWS Academy Learner Lab. |
 
 ---
 
@@ -45,7 +45,7 @@ nav_order: 2
 
 | Fichero / Enlace | Descripción |
 |------------------|-------------|
-| [Guía Básica Virtualización](./recursos/Guia-Basica-Virtualizacion.pdf) | Guía técnica que define los fundamentos, tipos y ventajas de la virtualización para optimizar el uso de hardware, mejorar la seguridad y facilitar la gestión de sistemas operativos. |
+| [Guía Básica Virtualización](./recursos/guia-basica-virtualizacion.pdf) | Guía técnica que define los fundamentos, tipos y ventajas de la virtualización para optimizar el uso de hardware, mejorar la seguridad y facilitar la gestión de sistemas operativos. |
 | [Guía de Cloud Computing](./recursos/guia-cloud-computing.pdf) | Guía del INCIBE que explica el funcionamiento, modelos y medidas de seguridad del cloud computing para ayudar a empresarios y pymes en su transición digital. |
 
 ---
@@ -54,4 +54,3 @@ nav_order: 2
 
 - [The Twelve-Factor App](https://12factor.net/es/) — Metodología para aplicaciones web modernas
 - [MDN: Cómo funciona Internet](https://developer.mozilla.org/es/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [DigitalOcean: Introduction to Web Application Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-web-application-deployment)
