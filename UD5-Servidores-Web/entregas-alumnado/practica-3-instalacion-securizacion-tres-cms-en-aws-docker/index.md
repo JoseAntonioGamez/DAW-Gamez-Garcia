@@ -1,8 +1,11 @@
 # Enlace de instalación para PrestaShop 16.04
 [Como instalar Prestashop 16.04](https://lite.evernote.com/note/cfb72f3d-51c1-4404-91a5-dc55205fab6e)
 
+---
+
 # Práctica 3
 [Instalación y securización en AWS y Docker](./instalacion-securizacion-tres-cms-aws-docker.pdf)
+
 ---
 
 # Comandos útiles para PrestaShop / Magento y MySQL
