@@ -35,9 +35,9 @@ nav_order: 2
 
 > Tareas realizadas y entregadas en Google Classroom. Cada subcarpeta corresponde a una tarea.
 
-| Carpeta | Tarea |
-|---------|-------|
-| [mi-primer-servidor-ssh](entregas-alumnado/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH |
+| Carpeta | Archivo | Tarea |
+|---------|---------|-------|
+| [mi-primer-servidor-ssh] |[Inicio de laboratorio AWS](entregas-alumnado/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH |
 
 ---
 
