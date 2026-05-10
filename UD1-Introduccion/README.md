@@ -23,7 +23,7 @@ nav_order: 2
 
 ### 📖 Materiales del profesor (`/material-teorico`)
 
-> Apuntes, presentaciones y esquemas publicados por el profesor en Google Classroom.
+> Publicaciones realizadas por el profesor en Google Classroom.
 
 | Fichero | Descripción |
 |---------|-------------|
@@ -43,9 +43,10 @@ nav_order: 2
 
 ### 📚 Documentos adicionales (`/recursos`)
 
-> Mínimo 2 documentos seleccionados por el grupo: tutoriales, cheatsheets, artículos técnicos o guías de referencia oficial.
-
 | Fichero / Enlace | Descripción |
+|------------------|-------------|
+| [Guía Básica Virtualización](./recursos/Guia-Basica-Virtualizacion.pdf) | Guía técnica que define los fundamentos, tipos y ventajas de la virtualización para optimizar el uso de hardware, mejorar la seguridad y facilitar la gestión de sistemas operativos. |
+| [Guía de Cloud Computing](./recursos/guia-cloud-computing.pdf) | Guía del INCIBE que explica el funcionamiento, modelos y medidas de seguridad del cloud computing para ayudar a empresarios y pymes en su transición digital. |
 
 ---
 
