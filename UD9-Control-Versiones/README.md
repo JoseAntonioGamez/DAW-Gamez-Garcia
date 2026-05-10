@@ -25,6 +25,7 @@ Git avanzado, ramas, merge/rebase, GitHub Flow, GitLab CI/CD y hooks.
 |---------|-------------|
 | [git-github.pdf](material-teorico/git-github.pdf) | Introducción a Git y GitHub: conceptos, comandos y flujo de trabajo |
 | [Github de PHP](https://github.com/phpDocumentor/phpDocumentor) | Herramienta para generar automáticamente documentación técnica y diagramas de proyectos PHP a partir del código fuente y comentarios DocBlock. |
+
 ---
  
 ## 📚 Recursos adicionales
