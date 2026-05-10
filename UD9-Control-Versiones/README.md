@@ -19,7 +19,7 @@ Git avanzado, ramas, merge/rebase, GitHub Flow, GitLab CI/CD y hooks.
  
 ---
  
-## 📖 Material teórico
+## 📖 Material teórico  (`/material-teorico`)
  
 | Fichero | Descripción |
 |---------|-------------|
@@ -27,16 +27,16 @@ Git avanzado, ramas, merge/rebase, GitHub Flow, GitLab CI/CD y hooks.
 | [Github de PHP](https://github.com/phpDocumentor/phpDocumentor) | Herramienta para generar automáticamente documentación técnica y diagramas de proyectos PHP a partir del código fuente y comentarios DocBlock. |
 
 ---
- 
-## 📚 Recursos adicionales
- 
+
+## 📚 Recursos adicionales (`/recursos`)
+
 | Fichero | Descripción |
 |---------|-------------|
- 
+
 ---
- 
+
 ## 🔗 Referencias externas de interés
- 
+
 - [Pro Git — Libro oficial gratuito en español](https://git-scm.com/book/es/v2)
 - [GitHub Docs](https://docs.github.com/es)
 - [Conventional Commits](https://www.conventionalcommits.org/es/)
