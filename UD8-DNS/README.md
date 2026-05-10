@@ -1,0 +1,57 @@
+---
+title: UD8 — DNS
+nav_order: 9
+---
+ 
+# UD8 · Servicios de nombre de dominio (DNS)
+ 
+**Módulo:** Despliegue de Aplicaciones Web · CFGS DAW 2025-2026  
+**Integrantes que han trabajado esta unidad:** 
+- Marcos García 
+- José Antonio Gámez
+- Carlos Robles
+
+---
+ 
+## Contenidos principales
+ 
+DNS, registros (A, CNAME, MX...), BIND9, LDAP, OpenLDAP, resolución de nombres, TTL y DNS inverso.
+ 
+---
+ 
+## 📖 Material teórico (`/material-teorico`)
+ 
+| Fichero | Descripción |
+|---------|-------------|
+| [daw-05.pdf](material-teorico/daw-05.pdf) | Apuntes del módulo — DAW 05 |
+| [index.md](material-teorico/index.md) | Referencias del material teórico de la unidad |
+| [instalacion-configuracion-ldap-openldap.pdf](material-teorico/instalacion-configuracion-ldap-openldap.pdf) | Instalación y configuración de LDAP con OpenLDAP |
+| [instalacion-servidor-dns-bind9.pdf](material-teorico/instalacion-servidor-dns-bind9.pdf) | Instalación de un servidor DNS con BIND9 |
+| [servicio-dns.pdf](material-teorico/servicio-dns.pdf) | El servicio DNS: conceptos y funcionamiento |
+| [servicio-ldap.pdf](material-teorico/servicio-ldap.pdf) | El servicio LDAP: conceptos y arquitectura |
+| [servidor-dns-sencillo-dnsmasq.pdf](material-teorico/servidor-dns-sencillo-dnsmasq.pdf) | Configuración de un servidor DNS sencillo con Dnsmasq |
+| [servidor-dns.pdf](material-teorico/servidor-dns.pdf) | Administración de servidores DNS |
+| [wikipedia-sistema-nombres-dominio.pdf](material-teorico/wikipedia-sistema-nombres-dominio.pdf) | Referencia Wikipedia sobre el Sistema de Nombres de Dominio |
+ 
+---
+ 
+## 📥 Entregas del grupo (`/entregas-alumnado`)
+ 
+| Tarea | Archivo | Descripción |
+|-------|---------|-------------|
+| [practica-1-instalacion-bind9](entregas-alumnado/practica-1-instalacion-bind9.pdf) | Práctica 1: Instalación de BIND9 | Proceso de instalación y configuración del servidor DNS BIND9 en una instancia de AWS Ubuntu, que incluye la definición de zonas para el dominio "marcos.com", la creación de registros tipo A y CNAME, y la verificación del funcionamiento mediante el comando dig. |
+ 
+---
+ 
+## 📚 Recursos adicionales (`/recursos`)
+ 
+| Fichero | Descripción |
+|---------|-------------|
+ 
+---
+ 
+## 🔗 Referencias externas de interés
+ 
+- [Documentación de BIND9](https://bind9.readthedocs.io/)
+- [Cloudflare: ¿Qué es el DNS?](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/)
+- [MXToolbox — DNS Lookup](https://mxtoolbox.com/DNSLookup.aspx)
