@@ -46,9 +46,9 @@ SSH, SCP, SFTP, gestión de claves públicas/privadas, túneles SSH y administra
 
 | Fichero / Enlace | Descripción |
 |------------------|-------------|
-| [Clasificación De Tecnologías De Acceso Remoto](./recursos/Clasificación-tecnologías-acceso-remoto.pdf) | Guía clasificadora técnica que define los fundamentos, tipos y ventajas de diferentes tecnologias de acceso remoto fomentando su uso y al teletrabajo desde el COVID-19. |
-| [Guía General de uso SSH](./recursos/Guia-de-uso-ssh.pdf) | Guía de la Universidad de santiago de compostela que explica el funcionamiento y uso del servicio SSH y sus posibles usos tecnicos. |
-| [Guía de instalación OpenSSH](./recursos/Open-SSH.pdf) | Guía técnica para instalar el servidor OpenSSH en Ubuntu, configurar su puerto y aplicar medidas de seguridad como la desactivación del acceso para el usuario root. |
+| [Clasificación De Tecnologías De Acceso Remoto](./recursos/clasificacion-tecnologias-acceso-remoto.pdf) | Guía clasificadora técnica que define los fundamentos, tipos y ventajas de diferentes tecnologias de acceso remoto fomentando su uso y al teletrabajo desde el COVID-19. |
+| [Guía General de uso SSH](./recursos/guia-de-uso-ssh.pdf) | Guía de la Universidad de santiago de compostela que explica el funcionamiento y uso del servicio SSH y sus posibles usos tecnicos. |
+| [Guía de instalación OpenSSH](./recursos/open-ssh.pdf) | Guía técnica para instalar el servidor OpenSSH en Ubuntu, configurar su puerto y aplicar medidas de seguridad como la desactivación del acceso para el usuario root. |
 
 ---
 
