@@ -37,7 +37,7 @@ nav_order: 2
 
 | Carpeta | Archivo | Tarea |
 |---------|---------|-------|
-| [mi-primer-servidor-ssh] |[Inicio de laboratorio AWS](entregas-alumnado/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH |
+| [mi-primer-servidor-ssh] |[Inicio de laboratorio AWS](entregas-alumnado/mi-primer-servidor-ssh/ud1-inicio-laboratorio-aws.pdf) | Mi primer servidor SSH |
 
 ---
 
