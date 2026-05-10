@@ -23,7 +23,7 @@ Tomcat, Apache, Jenkins, AWS. Despliegue de aplicaciones Java, integración cont
 
 | Fichero | Descripción |
 |---------|-------------|
-| [despliegue-aplicaciones-java.md](material-teorico/despliegue-aplicaciones-java.md) | Guía de despliegue de aplicaciones Java |
+| [despliegue-aplicaciones-java.md](material-teorico/despliegue-aplicaciones-java.md) | Materiales de despliegue de aplicaciones Java |
 | [despliegue-aplicaciones-web.pdf](material-teorico/despliegue-aplicaciones-web.pdf) | Despliegue de aplicaciones web: conceptos y herramientas |
 
 ---
