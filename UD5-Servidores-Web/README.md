@@ -41,7 +41,7 @@ AWS, Apache, WordPress, Drupal, PrestaShop, Magento, Webmin. Instalación y secu
 |-------|---------|-------------|
 | Tarea 1 |[Instalación WordPress](entregas-alumnado/tarea-1-instalacion-wordpress/index.md) | Instalación básica de WordPress en AWS |
 | Práctica 1 | [Instalación WordPress, Drupal y PrestaShop](entregas-alumnado/practica-1-instalacion-wordpress-drupal-prestashop/index.md) | Instalación de tres CMS en instancias EC2 de AWS |
-| Práctica 2 | [Instalación Magento con Webmin](entregas-alumnado/practica-2-instalacion-magento-webmin/index.md) | Instalación y gestión de Magento usando Webmin |
+| Práctica 2 | [Instalación Magento y Webmin](entregas-alumnado/practica-2-instalacion-magento-webmin/index.md) | Instalación y gestión de Magento usando Webmin |
 | Práctica 3 | [Instalación y securización de tres CMS en AWS con Docker](entregas-alumnado/practica-3-instalacion-securizacion-tres-cms-en-aws-docker/index.md) | Despliegue y securización de tres CMS sobre Docker en AWS EC2 |
 
 ---

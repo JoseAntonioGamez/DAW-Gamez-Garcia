@@ -3,4 +3,4 @@
 ---
 
 # Práctica 2
-[Instalación de Magento con Webmin](./instalacion-magento-webmin.pdf)
+[Instalación de Magento y Webmin](./instalacion-magento-webmin.pdf)
