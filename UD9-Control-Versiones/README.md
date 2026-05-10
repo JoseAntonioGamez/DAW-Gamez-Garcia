@@ -28,7 +28,7 @@ Git avanzado, ramas, merge/rebase, GitHub Flow, GitLab CI/CD y hooks.
 
 ---
 
-## 📚 Recursos adicionales (`/recursos`)
+### 📚 Documentos adicionales (`/recursos`)
 
 | Fichero | Descripción |
 |---------|-------------|
