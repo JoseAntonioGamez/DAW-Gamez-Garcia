@@ -24,9 +24,9 @@ Imágenes, contenedores, Dockerfile, Docker Compose, redes y volúmenes. Desplie
 
 | Tarea | Archivo | Descripción |
 |-------|---------|-------------|
-| Práctica 1 | [Practica Docker Hub](./entregas-alumnado/practica-1-docker-hub/practica-1-docker-hub.pdf) | Guía paso a paso sobre la creación de una cuenta en Docker Hub , la configuración de un servidor Apache2 personalizado dentro de un contenedor Ubuntu , y la posterior publicación de dicha imagen en un repositorio remoto para su despliegue en una instancia de AWS. |
+| Práctica 1 | [Practica Docker Hub](./entregas-alumnado/practica-1-docker-hub/docker-hub.pdf) | Guía paso a paso sobre la creación de una cuenta en Docker Hub , la configuración de un servidor Apache2 personalizado dentro de un contenedor Ubuntu , y la posterior publicación de dicha imagen en un repositorio remoto para su despliegue en una instancia de AWS. |
 | Tarea 1 | [Primer contenedor Docker](./entregas-alumnado/tarea-1-primer-contenedor-docker/) | Muestra de la ejecución exitosa de un servidor web Apache2 sobre Ubuntu, mostrando la página por defecto en el navegador y la configuración de red ifconfig en la terminal. |
-| Tarea 2 | [Instalación de Docker](./entregas-alumnado/tarea-2-instalacion-docker/tarea-2-instalacion-de-docker.pdf) | Guía técnica detallada sobre la instalación de Docker en una instancia de AWS Ubuntu, que incluye la configuración de grupos de seguridad , el despliegue de un contenedor con Apache2 y la verificación del servicio mediante el navegador y la herramienta Lynx. |
+| Tarea 2 | [Instalación de Docker](./entregas-alumnado/tarea-2-instalacion-docker/instalacion-de-docker.pdf) | Guía técnica detallada sobre la instalación de Docker en una instancia de AWS Ubuntu, que incluye la configuración de grupos de seguridad , el despliegue de un contenedor con Apache2 y la verificación del servicio mediante el navegador y la herramienta Lynx. |
 
 ---
 
