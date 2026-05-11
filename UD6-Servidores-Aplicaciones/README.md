@@ -1,6 +1,7 @@
 ---
 title: UD6 — Servidores de Aplicaciones
-nav_order: 7
+nav_order: 6
+has_children: true
 ---
 
 # UD6 · Administración de servidores de aplicaciones web

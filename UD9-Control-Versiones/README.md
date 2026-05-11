@@ -1,6 +1,7 @@
 ---
 title: UD9 — Control de Versiones
-nav_order: 10
+nav_order: 9
+has_children: true
 ---
  
 # UD9 · Control de versiones

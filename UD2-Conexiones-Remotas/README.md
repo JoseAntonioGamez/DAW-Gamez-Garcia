@@ -1,6 +1,7 @@
 ---
 title: UD2 — Conexiones Remotas
-nav_order: 3
+nav_order: 2
+has_children: true
 ---
 
 # UD2 · Conexiones remotas para la administración de servidores web

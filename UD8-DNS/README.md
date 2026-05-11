@@ -1,6 +1,7 @@
 ---
 title: UD8 — DNS
-nav_order: 9
+nav_order: 8
+has_children: true
 ---
  
 # UD8 · Servicios de nombre de dominio (DNS)

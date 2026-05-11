@@ -1,3 +1,9 @@
 remote_theme: just-the-docs/just-the-docs
 title: DAW — Despliegue de Aplicaciones Web
 description: Repositorio documental del módulo
+
+# Activa la navegación con desplegables
+nav_enabled: true
+
+# Ordenar la navegación por el campo "nav_order"
+nav_sort: case_insensitive
