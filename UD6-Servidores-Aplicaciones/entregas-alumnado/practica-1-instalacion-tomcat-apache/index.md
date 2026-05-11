@@ -1,5 +1,5 @@
 # Práctica 1 - Despliegue de aplicaciones Java
-[Enlace a la práctica](./practica-despliegue-aplicaciones-java.pdf)
+[Enlace a la práctica](./practica-1-practica-despliegue-tomcat-11.pdf)
 
 ---
 
