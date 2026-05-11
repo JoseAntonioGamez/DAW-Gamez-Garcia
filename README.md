@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # DAW — Despliegue de Aplicaciones Web
 
 Repositorio documental del módulo **Despliegue de Aplicaciones Web**.  
