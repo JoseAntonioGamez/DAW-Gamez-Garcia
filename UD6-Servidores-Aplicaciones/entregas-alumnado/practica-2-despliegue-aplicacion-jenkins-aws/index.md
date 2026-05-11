@@ -4,4 +4,4 @@
 ---
 
 # Práctica 2 - Instalación de Jenkins
-[Enlace a la práctica](./practica-2-despliegue-jenkins-instancia-aws.pdf)
+[Enlace a la práctica](./despliegue-jenkins-instancia-aws.pdf)

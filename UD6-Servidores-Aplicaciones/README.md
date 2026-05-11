@@ -35,7 +35,7 @@ Tomcat, Apache, Jenkins, AWS. Despliegue de aplicaciones Java, integración cont
 |-------|---------|-------------|
 | Práctica 1 | [Instalación Tomcat y Apache](entregas-alumnado/practica-1-instalacion-tomcat-apache/index.md) | Instalación y configuración de Tomcat 11 con Apache |
 | Práctica 2 | [Despliegue de aplicación con Jenkins en AWS](entregas-alumnado/practica-2-despliegue-aplicacion-jenkins-aws/index.md) | Despliegue de aplicación usando Jenkins en una instancia AWS |
-| Práctica 3 | [Despliegue de aplicaciones Java](entregas-alumnado/practica-3-despliegue-aplicaciones-java/practica-3-despliegue-aplicaciones-java.pdf) | Despliegue de aplicaciones Java en servidor de aplicaciones |
+| Práctica 3 | [Despliegue de aplicaciones Java](entregas-alumnado/practica-3-despliegue-aplicaciones-java/despliegue-aplicaciones-java.pdf) | Despliegue de aplicaciones Java en servidor de aplicaciones |
 
 ---
 
