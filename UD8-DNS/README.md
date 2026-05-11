@@ -40,7 +40,7 @@ DNS, registros (A, CNAME, MX...), BIND9, LDAP, OpenLDAP, resolución de nombres,
  
 | Tarea | Archivo | Descripción |
 |-------|---------|-------------|
-| Práctica 1 | [Instalación BIND9](entregas-alumnado/practica-1-instalacion-bind9.pdf) | Proceso de instalación y configuración del servidor DNS BIND9 en una instancia de AWS Ubuntu, que incluye la definición de zonas para el dominio "marcos.com", la creación de registros tipo A y CNAME, y la verificación del funcionamiento mediante el comando dig. |
+| Práctica 1 | [Instalación BIND9](entregas-alumnado/practica-1-instalacion-bind9/instalacion-bind9.pdf) | Proceso de instalación y configuración del servidor DNS BIND9 en una instancia de AWS Ubuntu, que incluye la definición de zonas para el dominio "marcos.com", la creación de registros tipo A y CNAME, y la verificación del funcionamiento mediante el comando dig. |
  
 ---
  
