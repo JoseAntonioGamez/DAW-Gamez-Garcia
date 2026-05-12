@@ -1,3 +1,4 @@
+{: .no_toc }
 # Configuración del servicio SSH (`sshd_config`)
 
 ## Introducción

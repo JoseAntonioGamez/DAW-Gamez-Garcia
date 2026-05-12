@@ -1,3 +1,4 @@
+{: .no_toc }
 # Versiones de Jenkins
 [Enlace a las versiones de Jenkins](https://updates.jenkins.io/download/war/)
 

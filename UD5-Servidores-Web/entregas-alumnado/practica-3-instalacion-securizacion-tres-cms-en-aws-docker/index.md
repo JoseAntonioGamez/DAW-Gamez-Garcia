@@ -1,3 +1,4 @@
+{: .no_toc }
 # Enlace de instalación para PrestaShop 16.04
 [Como instalar Prestashop 16.04](https://lite.evernote.com/note/cfb72f3d-51c1-4404-91a5-dc55205fab6e)
 

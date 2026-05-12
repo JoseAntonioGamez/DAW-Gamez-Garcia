@@ -1,3 +1,4 @@
+{: .no_toc }
 # Tomcat
 - [Enlace a Tomcat Wikipedia](https://es.wikipedia.org/wiki/Tomcat)
 

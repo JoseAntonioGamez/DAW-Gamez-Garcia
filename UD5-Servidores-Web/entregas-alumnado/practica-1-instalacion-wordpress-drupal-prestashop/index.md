@@ -1,3 +1,4 @@
+{: .no_toc }
 # Enlaces de descarga
 
 - [Enlace descarga Wordpress 9.4.2 (zip)](https://downloads.wordpress.org/plugin/woocommerce.9.4.2.zip)

@@ -1,3 +1,4 @@
+{: .no_toc }
 # Práctica 1 - Despliegue de aplicaciones Java
 [Enlace a la práctica](./practica-despliegue-tomcat-11.pdf)
 
