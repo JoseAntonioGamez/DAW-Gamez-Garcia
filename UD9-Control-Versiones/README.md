@@ -31,8 +31,10 @@ Git avanzado, ramas, merge/rebase, GitHub Flow, GitLab CI/CD y hooks.
 
 ### 📚 Documentos adicionales (`/recursos`)
 
-| Fichero | Descripción |
-|---------|-------------|
+| Fichero / Enlace | Descripción |
+|------------------|-------------|
+| [Manual de usuario GIT](./recursos/git_manual.pdf) | Manual de usuario de Git creado por la Cooperativa Fiqus que explica los fundamentos del control de versiones distribuido y detalla los comandos esenciales para gestionar repositorios, ramas y flujos de trabajo. |
+| [Guía Plataformas de control de versiones](./recursos/sistemas-control-versiones.md) | Guía de referencia rápida sobre los principales sistemas y plataformas de control de versiones del mercado tecnológico. |
 
 ---
 
