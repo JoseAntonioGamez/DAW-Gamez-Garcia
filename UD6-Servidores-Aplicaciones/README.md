@@ -41,8 +41,10 @@ Tomcat, Apache, Jenkins, AWS. Despliegue de aplicaciones Java, integración cont
 
 ### 📚 Documentos adicionales (`/recursos`)
 
-| Fichero | Descripción |
-|---------|-------------|
+| Fichero / Enlace | Descripción |
+|------------------|-------------|
+| [Guía académica Servidores de Aplicaciones](./recursos/guias-ervidores-aplicaciones.pdf) | Guía académica que describe la instalación y configuración de servidores de aplicaciones para PHP (entornos LAMP y WAMP) y Java (Tomcat y GlassFish), así como el despliegue de aplicaciones web en estas plataformas. |
+| [Guía Academica Apache_Tomcat](./recursos/guia-apache-tomcat-jakartaee.pdf) | Guía académica de la Universidad Complutense de Madrid que detalla la arquitectura, configuración y gestión del servidor de aplicaciones Apache Tomcat, incluyendo su integración con el entorno de desarrollo Eclipse y la herramienta Maven |
 
 ---
 
