@@ -1,3 +1,4 @@
+{: .no_toc }
 # Sistemas de Control de Versiones (VCS) y Plataformas de Alojamiento
 
 Este documento recopila las principales herramientas de control de versiones y plataformas de alojamiento de código utilizadas en la industria del desarrollo de software.
