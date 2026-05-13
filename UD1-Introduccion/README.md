@@ -22,16 +22,6 @@ has_children: true
 
 ## 📂 Índice de contenidos
 
-### 📖 Materiales del profesor (`/material-teorico`)
-
-> Publicaciones realizadas por el profesor en Google Classroom.
-
-| Fichero | Descripción |
-|---------|-------------|
-| [ud1-introduccion-despliegue-aplicaciones-web.pdf](material-teorico/ud1-introduccion-despliegue-aplicaciones-web.pdf) | Presentación del profesor — Introducción al despliegue |
-
----
-
 ### 📥 Entregas del grupo (`/entregas-alumnado`)
 
 > Tareas realizadas y entregadas en Google Classroom. Cada subcarpeta corresponde a una tarea.

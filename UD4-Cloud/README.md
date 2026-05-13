@@ -13,6 +13,21 @@ has_children: true
 - Carlos Robles
 
 ---
+## Contenidos principales
+ 
+Arquitectura web, cloud computing, virtualización y tecnologías de despliegue de aplicaciones web como AWS, Docker, VirtualBox y OpenStack.
+ 
+---
+
+### 📖 Materiales del profesor (`/material-teorico`)
+
+> Publicaciones realizadas por el profesor en Google Classroom.
+
+| Fichero | Descripción |
+|---------|-------------|
+| [ud1-introduccion-despliegue-aplicaciones-web.pdf](material-teorico/ud1-introduccion-despliegue-aplicaciones-web.pdf) | Presentación del profesor — Introducción al despliegue |
+
+---
 
 ### 📚 Documentos adicionales (`/recursos`)
 
