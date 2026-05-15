@@ -2,6 +2,9 @@ remote_theme: just-the-docs/just-the-docs
 title: DAW — Despliegue de Aplicaciones Web
 description: Repositorio documental del módulo
 
+url: "https://JoseAntonioGamez.github.io"
+baseurl: "/DAW-Gamez-Garcia-Robles"
+
 # Activa la navegación con desplegables
 nav_enabled: true
 
