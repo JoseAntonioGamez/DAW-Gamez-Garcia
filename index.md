@@ -1,7 +1,6 @@
 ---
 title: DAW — Despliegue de Aplicaciones Web
-nav_order: 1
-has_children: false
+nav_exclude: true
 ---
 
 # DAW — Despliegue de Aplicaciones Web
