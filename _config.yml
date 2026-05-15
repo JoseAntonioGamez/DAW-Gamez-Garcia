@@ -10,3 +10,4 @@ nav_enabled: true
 
 # Ordenar la navegación por el campo "nav_order"
 nav_sort: case_insensitive
+nav_fold: true
